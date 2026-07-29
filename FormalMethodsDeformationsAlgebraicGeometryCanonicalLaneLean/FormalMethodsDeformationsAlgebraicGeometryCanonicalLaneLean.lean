@@ -1,0 +1,12 @@
+import Formaldeform.BaseDeformationPackage
+import Formaldeform.UniversalPropertyBridge
+import Formaldeform.RepresentationTheoremAdmissible
+import Formaldeform.StructureDecompositionClosure
+import Formaldeform.GrothendieckTopologyCrystallization
+import Formaldeform.InfinitesimalSynthesizer
+
+namespace HautevilleHouse
+namespace FormalMethodsDeformationsAlgebraicGeometryCanonicalLaneLean
+
+end FormalMethodsDeformationsAlgebraicGeometryCanonicalLaneLean
+end HautevilleHouse
